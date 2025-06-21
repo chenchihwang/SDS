@@ -2,4 +2,6 @@
 
 • Utilizes lang. ID tokens, enhanced LLM prompting techniques, and MMS-TTS for dynamic language routing
 
+• Designed novel prompting methodology with self-checking mechanisms, language tokens, and anchor text
+
 • Improved language consistency acc. from 50% to 80-92% across many models in English-Japanese dialogues
